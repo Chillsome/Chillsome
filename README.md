@@ -2,6 +2,7 @@
 <h3 align="center">Student @ TXST | Associate Engineer @ Q2</h3>
 
 - 🌱 I’m currently learning **Golang and Rust**
+- Looking to work on open source projects
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
