@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm David</h1>
 
-- 🌱 I’m currently learning **Rust**
+- 🌱 I’m currently learning **Arch Linux**
 - Looking to work on open source projects
 
 <h3 align="left">Languages and Tools:</h3>
